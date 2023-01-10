@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SagnikKundu
-- 👀 I’m a 3rd year B.Tech Computer Science student persuing graduation from The University of Engineering and Management, Kolkata. 
-- 🌱 I’m currently learning Data Science and Business Analytics using Python.
+- 👀 I’m a gradute in B.Tech Computer Science from The University of Engineering and Management, Kolkata. 
+- 🌱 I’m currently a Programmer Analyst at Cognizant.
 - 📫 You can reach me on LinkedIn : www.linkedin.com/in/sagnik-kundu-412313200
 - Thank You ☺️ 
 
